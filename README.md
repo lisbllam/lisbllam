@@ -9,7 +9,10 @@ Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis pr
 * Ocupación: Estudiante de Ingenieria en Ciencias de la Computación, ESPOL
 * Lugar de residencia: Ecuador
 ## Proyectos
-* [Gestionador de reservas de lugares de una institución](https://github.com/anzagood1/POO4_1P_ZAMBRANO_LLAMUCA_VILLACIS..git)
+* [Gestionador de reservas de lugares de una institución](https://github.com/anzagood1/POO4_1P_ZAMBRANO_LLAMUCA_VILLACIS..git): Sistema que gestiona reservas de aulas, laboratorios, etc, con diferentes tipos de usuarios como profesor, estudiante u otro. Lenguaje 100% Java.
+* [Red de vuelos representada por grafo](https://github.com/Leaxmus/ED_P1_Grupo09.git): Sistema que grafica una red de vuelos mediante un grafo, permite agregar o eliminar vuelos y aeropuertos, y buscar rutas óptimas de acuerdo a un criterio específico. Lenguaje 100% Java
+* [Encriptador y Desencriptador de archivos](https://github.com/rafariva-classroom/taller05-i-o-encriptador-LisbethLlamuca.git): Encripta y Desencripta archivos haciendo uso de la libreria Blowfish. Lenguaje base C.
 ## Intereses
 * Web Development
+* App Development
 * CyberSecurity
